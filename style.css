@@ -4,7 +4,7 @@
 	 box-sizing: border-box;
 }
  body {
-	 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	 font-family: Impact, Haettenschweiler, 'Arial', sans-serif;
 }
  .image-container img {
 	 height: 100vh;
@@ -54,7 +54,7 @@
 	 font-size: 1rem;
 }
  .image-container .time-container .number {
-	 font-weight: bolder;
+	 font-weight: bold;
 	 font-size: 2rem;
 }
  .image-container .time-container .text {
